@@ -1,0 +1,16 @@
+{
+  "name": "light-flyer",
+  "version": "1.0.0",
+  "description": "create lightning test networl ",
+  "main": "app.js",
+  "bin": "./bin/lightFlyer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Oshikawa Takumu",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^5.0.0",
+    "yaml": "^1.8.3"
+  }
+}

@@ -1,0 +1,54 @@
+Node:
+  alice:
+    name: alice
+    rpclisten: 10001
+    listen: 9001
+    restlisten: 8001
+
+  bob:
+    name: bob
+    rpclisten: 10002
+    listen: 9002
+    restlisten: 8002
+  
+  charlie:
+    name: charlie
+    rpclisten: 10003
+    listen: 9003
+    restlisten: 8003
+
+  dave:
+    name: dave
+    rpclisten: 10004
+    listen: 9004
+    restlisten: 8004
+
+  frank:
+    name: frank
+    rpclisten: 10005
+    listen: 9005
+    restlisten: 8005
+
+  ivan:
+    name: ivan
+    rpclisten: 10006
+    listen: 9006
+    restlisten: 8006
+
+  justine:
+    name: justine
+    rpclisten: 10007
+    listen: 9007
+    restlisten: 8007
+
+  mallory:
+    name: mallory
+    rpclisten: 10008
+    listen: 9008
+    restlisten: 8008
+
+  oscar:
+    name: oscar
+    rpclisten: 10009
+    listen: 9009
+    restlisten: 8009
